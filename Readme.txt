@@ -1,5 +1,5 @@
 Challenge en el repositorio Github público: 
-https://github.com/Lurimago/Challenge-QA---Luis-Ricardo-Marcelo-Gomez
+https://github.com/Lurimago/EjerciciodeE2E-ChallengeQA.git
 
 1. Prerequisitos:
 
