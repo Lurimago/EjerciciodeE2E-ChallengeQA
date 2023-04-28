@@ -12,12 +12,3 @@ solo está actualizando dentro de Cypress, se agregó:
 Para comprobarlo.
 
 
-2. 	Ejercicio de APIS :
-
-Se utilizó postman como software para pruebas de servicios REST.
-Se utilizó Cypress y cy.request para las peticiones automatizadas.
-Se logró hacer todas las peticiones, se tuvo problemas con el método Delete.
-
-La documentación se encuentra en:
-https://documenter.getpostman.com/view/21507307/2s93Y6sz6B
-

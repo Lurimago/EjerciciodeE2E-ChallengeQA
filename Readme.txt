@@ -3,8 +3,6 @@ https://github.com/Lurimago/Challenge-QA---Luis-Ricardo-Marcelo-Gomez
 
 1. Prerequisitos:
 
-** Aqui describiremos las versiones de las dependencias, packages u otro tecnología que necesito tener configurado en mi maquina local.
-Por ejemplo:
 	- Maquina local con el sistema operativo Windows 10
 	- Visual Studio Code 1.77.3
 	- Postaman
@@ -38,6 +36,5 @@ Por ejemplo:
 	Ejecutar en la terminal:  npm test, que abrirá: npx cypress open, se abrirá Cypress y elegir el test a ejecutar
 
 4. Información adicional
-	La documentación de postman:
-	https://documenter.getpostman.com/view/21507307/2s93Y6sz6B
+	El botón hacia el Checkout no está funcionando dentro de Cypress
 
